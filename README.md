@@ -82,9 +82,9 @@ Agar tautan pada `url.txt` aktif di akun Streamlit Cloud Anda (`vanaprastha2256`
 4. Klik tombol **"Create app"** lalu pilih repositori Anda.
 5. Masukkan konfigurasi:
    - **Main file path:** `dashboard/dashboard.py`
-   - **App URL (Custom subdomain):** `beijing-air-quality-vanaprastha2256`
+   - **App URL (Custom subdomain):** `beijing-air-quality-vanaprastha`
 6. Klik **"Deploy"**. Aplikasi Anda akan aktif di alamat:
-   👉 `https://beijing-air-quality-vanaprastha2256.streamlit.app/`
+   👉 `https://beijing-air-quality-vanaprastha.streamlit.app/`
 
 ---
 
